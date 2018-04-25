@@ -1,0 +1,10 @@
+{
+	"name": "pkpudev/yii-simplesaml",
+	"description": "Pkpudev Commcare Api",
+	"authors": [
+		{
+			"name": "Zein Miftah",
+			"email": "zeinmiftah@gmail.com"
+		}
+	]
+}
